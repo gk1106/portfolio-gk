@@ -1,4 +1,4 @@
-# ⚡️astro-bento-portfolio
+# ⚡️gk-portfolio
 
 ## A personal portfolio website made using `Astro`.
 
@@ -64,10 +64,4 @@ Deploying your website on Netlify it's optional but I reccomand it in order to d
 
 You just need to fork this repo and linking it to your Netlify account.
 
-or
 
-[![Netlify Deploy button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Ladvace/astro-bento-portfolio)
-
-## Authors ❤️
-
-- Gianmarco - https://github.com/Ladvace
